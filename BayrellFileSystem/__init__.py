@@ -2,9 +2,9 @@
 
 
 
-__name__ = "BayrellFileSystem"
+__name__ = "bayrell-file-system"
 __version__ = "0.0.1"
-__description__ = "Bayrell runtime library for python"
+__description__ = "Bayrell File System"
 __license__ = "Apache License Version 2.0"
 __author__ = "Ildar Bikmamatov"
 __email__ = "ildar@bayrell.org"
